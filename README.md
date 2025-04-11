@@ -51,3 +51,6 @@ This journal explores the Digital Millennium Copyright Act (DMCA), its implicati
 - `Assignment 4 Binary to C++/`: Tasks focused on reconstructing C++ code from binary representations.
 - `Project 1/` and `Project 2/`: Capstone projects showcasing reverse engineering skills.
 - `Journals/`: Personal reflections and analyses of course topics.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
